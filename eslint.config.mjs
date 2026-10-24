@@ -13,6 +13,7 @@ export default defineConfig([
       "@stylistic/semi": ["error", "always"],
       "@stylistic/quotes": ["error", "double"],
       "prefer-let": "error",
+      "no-var": "error",
     },
   },
 ]);

@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rakaaditya12/koda-b10-javascript.git"
+    "url": "git+https://github.com/Rakaaditya12/koda-b10-javascript.git"
   },
   "keywords": [],
   "author": "Raka Aditya",
