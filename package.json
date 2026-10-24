@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/Rakaaditya12/koda-b10-javascript.git"
   },
+  "bugs": {
+    "url": "https://github.com/Rakaaditya/koda-b10-javascript1/issues"
+  },
   "keywords": [],
   "author": "Raka Aditya",
   "license": "MIT",
