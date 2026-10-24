@@ -1,0 +1,21 @@
+{
+  "name": "koda-b10-javascript1",
+  "version": "1.0.0",
+  "description": "- Membuat 2 function (hitungAwal dan hitungKedua). - Menjalankan function hitungAwal dengan parameter r & kondisi, dan menjalankan function hitungKedua dengan tanpa parameter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "lint": "eslint *.js *.mjs *.cjs",
+    "lint:fix": "eslint *.js *.mjs *.cjs --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.13.0",
+    "globals": "^17.13.0"
+  }
+}
